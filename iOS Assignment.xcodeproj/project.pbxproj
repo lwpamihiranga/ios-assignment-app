@@ -18,6 +18,7 @@
 		EEFFD52124CF6F1A00054C49 /* DetailsRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEFFD52024CF6F1A00054C49 /* DetailsRequest.swift */; };
 		EEFFD52424CFC9FE00054C49 /* FacebookCore in Frameworks */ = {isa = PBXBuildFile; productRef = EEFFD52324CFC9FE00054C49 /* FacebookCore */; };
 		EEFFD52624CFC9FE00054C49 /* FacebookLogin in Frameworks */ = {isa = PBXBuildFile; productRef = EEFFD52524CFC9FE00054C49 /* FacebookLogin */; };
+		EEFFD52824CFCBFC00054C49 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEFFD52724CFCBFC00054C49 /* LoginViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		EEFFD51C24CF6C0500054C49 /* MyListViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyListViewCell.swift; sourceTree = "<group>"; };
 		EEFFD51E24CF6D7B00054C49 /* MyDataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyDataModel.swift; sourceTree = "<group>"; };
 		EEFFD52024CF6F1A00054C49 /* DetailsRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsRequest.swift; sourceTree = "<group>"; };
+		EEFFD52724CFCBFC00054C49 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				EEFFD51C24CF6C0500054C49 /* MyListViewCell.swift */,
 				EEFFD51E24CF6D7B00054C49 /* MyDataModel.swift */,
 				EEFFD52024CF6F1A00054C49 /* DetailsRequest.swift */,
+				EEFFD52724CFCBFC00054C49 /* LoginViewController.swift */,
 				EEFFD50C24CF695700054C49 /* Main.storyboard */,
 				EEFFD50F24CF695800054C49 /* Assets.xcassets */,
 				EEFFD51124CF695800054C49 /* LaunchScreen.storyboard */,
@@ -158,6 +161,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EEFFD52824CFCBFC00054C49 /* LoginViewController.swift in Sources */,
 				EEFFD51D24CF6C0500054C49 /* MyListViewCell.swift in Sources */,
 				EEFFD51B24CF69C700054C49 /* MyListViewController.swift in Sources */,
 				EEFFD50724CF695700054C49 /* AppDelegate.swift in Sources */,
